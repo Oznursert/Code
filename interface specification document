@@ -1,0 +1,23 @@
+Interface Specification Document
+
+Öznur SERT
+10.11.2022
+Table Of Cotent
+
+1.	Home Page
+2.	Member Registration
+3.	Finalize Registration 
+
+    This screen will be used by the authorized person to create a user record.
+    The screen design will be plain and in blue and white colors.
+    
+1.	Home Page 
+    New user button on the top left and disable user option next to it and in line with these buttons on the right is the save user button.
+    Divide the screen into two equal parts. On the right, the user list (, Number of user, Name-surname, e-mail address and activity) should be in the form of a table.
+    
+2.  Member Registration
+    On the left side, there is the new user registration screen and the 
+    options (Username, Display Name , Phone , Email , User Roles (Options: Guest, Admin, SuperAdmin), Option-> Enable ) are located one below the other.
+    
+3. Finalize Registration 
+   It is completed with the 'Save user' button located at the top right.
